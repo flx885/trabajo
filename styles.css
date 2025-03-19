@@ -112,7 +112,7 @@ h2 {
 }
 
 
-/* Sección #quien_somo */
+/* Sección #quien_somos */
 #quien_somos {
     padding: 20px;
 }
@@ -150,7 +150,7 @@ h2 {
 
 /* Efecto de hover para las imágenes */
 .image-row img:hover {
-    transform: scale(1.05); /* Escala ligeramente la imagen al pasar el ratón */
+    transform: scale(1.05); /* Aumenta ligeramente la imagen al pasar el ratón */
 }
 
 
@@ -187,13 +187,13 @@ h2 {
 }
 
 .tabla_precios td {
-    border: 1px solid rgb(12, 12, 12); /* Borde de 1px alrededor de cada celda */
+    border: 1px solid rgb(12, 12, 12); 
     padding: 8px; /* Relleno dentro de las celdas */
     text-align: center; /* Alineación del texto al centro */
 }
 
 .tabla_precios tr:hover {
-    background-color: #ddd; /* Fondo gris oscuro cuando se pasa el ratón sobre una fila */
+    background-color: #ddd; 
 }
 
 .tabla_precios caption {
@@ -260,10 +260,8 @@ button {
 button:hover {
     background-color: #555;
 }
-
-
-
 /*aqui termina contactos*/
+
 /* aqui empieza trabaja con nosotros*/
 #trabaja {
     
